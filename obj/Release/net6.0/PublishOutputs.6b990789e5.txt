@@ -1,0 +1,11 @@
+C:\WebAppJenkins1\obj\Release\net6.0\PubTmp\Out\WebAppJenkins1.exe
+C:\WebAppJenkins1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\WebAppJenkins1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\WebAppJenkins1\obj\Release\net6.0\PubTmp\Out\WebAppJenkins1.dll
+C:\WebAppJenkins1\obj\Release\net6.0\PubTmp\Out\WebAppJenkins1.deps.json
+C:\WebAppJenkins1\obj\Release\net6.0\PubTmp\Out\WebAppJenkins1.runtimeconfig.json
+C:\WebAppJenkins1\obj\Release\net6.0\PubTmp\Out\WebAppJenkins1.pdb
+C:\WebAppJenkins1\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\WebAppJenkins1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\WebAppJenkins1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WebAppJenkins1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
